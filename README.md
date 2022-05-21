@@ -6,7 +6,7 @@
 - 🌱  Estou cursando pós graduação em  engenharia de software pela [PUC MINAS](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Engenharia-de-Software.aspx?area=11)
 - ⚡ Sou apaixonada por tecnologia. Tenho um perfil Hands-on para aprender novas tecnologias e mindset ágil. 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aline-Areda/Aline-Areda/blob/output/github-contribution-grid-snake.svg)
 
 #### 👨‍💻 Linguagens de Programação 
 
