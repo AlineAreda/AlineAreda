@@ -1,9 +1,9 @@
 # Aline-Areda
 
-### 👋 Oieee, Eu sou Aline Areda...
+### 👋 Oieee...
 
 - 🔭 Atualmente atuo como Senior Software Quality Assurance Analyst na [Zup Innovation](https://github.com/ZupIT)
-- 🌱  Estou cursando pós graduação em  engenharia de software pela [PUC MINAS](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Engenharia-de-Software.aspx?area=11)
+- 🌱  Estou cursando pós graduação em  engenharia de software pela PUC MINAS
 - ⚡ Sou apaixonada por tecnologia. Tenho um perfil Hands-on para aprender novas tecnologias e mindset ágil. 
 
 
