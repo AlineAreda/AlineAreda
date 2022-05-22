@@ -33,7 +33,8 @@
     <img src=https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23525252.svg?style=flat&logo=visual-studio-code&logoColor=007ACC&>
     <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>    
   </p>
-   
+  
+   ![Snake animation](https://github.com/AlineAreda/Aline-Areda/blob/output/github-contribution-grid-snake.svg)   
          
     
    
