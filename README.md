@@ -1,6 +1,6 @@
-# Aline-Areda
+# AlineAreda
 
-### 👋 Oieee...
+### 👋 Oieee...Bem vindo!
 
 - 🔭 Atualmente trabalho como Senior Software Quality Assurance Analyst na [Zup Innovation](https://github.com/ZupIT)
 - 🌱  Estou cursando pós graduação em  engenharia de software pela PUC MINAS
@@ -34,7 +34,7 @@
     <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>    
   </p>
   
-   ![Snake animation](https://github.com/AlineAreda/Aline-Areda/blob/output/github-contribution-grid-snake.svg)   
+  
          
     
    
