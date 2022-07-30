@@ -38,7 +38,7 @@
   </p>
   
   
-  ![Snake animation](https://github.com/AlineAreda/AlineAreda/blob/output/github-contribution-grid-snake.svg)
+
          
     
    
