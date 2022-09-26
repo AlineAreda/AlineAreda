@@ -3,9 +3,9 @@
 ### 👋 Oieee...
 
 - 🔭 Senior Software Quality Assurance Analyst na [Zup Innovation](https://github.com/ZupIT)
-- 🎓 cursando pós graduação em  engenharia de software | PUC MINAS 📚 
+- 🎓 cursando pós graduação em  engenharia de software |PUC MINAS 
 - 💻 Apaixonada por tecnologia. Com perfil Hands-on para aprender novas tecnologias. Mindset ágil.
-- 🎓 Aprendizagem contínua e compartilhar esse conhecimento sempre!
+- 📚 Aprendizagem contínua e compartilhar esse conhecimento sempre!
 - ☕ Estudando e aprimorando conhecimentos em Backend com foco em Java.
 
 
