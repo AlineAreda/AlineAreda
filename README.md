@@ -36,10 +36,18 @@
     <img src=https://img.shields.io/badge/-GitHub%20-%23525252.svg?style=flat&logo=github&>
     <img src=https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23525252.svg?style=flat&logo=visual-studio-code&logoColor=007ACC&>
     <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>    
-  </p>
+  </p> 
   
+ 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula)
+   <br><br>
+
+   <p align="center">
+   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula" alt="AlineAredao's   stats"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"  alt="AlineAreda's most languages"/>
+   </p>
+
+  <br><br>
   
    
   ### Minhas Redes 🤝 
