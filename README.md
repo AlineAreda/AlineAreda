@@ -6,7 +6,7 @@
 - 🎓 Cursando pós graduação em  engenharia de software
 - 💻 Apaixonada por tecnologia. Com perfil Hands-on para aprender novas tecnologias. Mindset ágil.
 - 📚 Aprendizagem contínua e compartilhar esse conhecimento sempre!
-- ☕ Estudando e aprimorando conhecimentos em Backend com foco em Java.
+- ☕ Estudando e aprimorando conhecimentos.
 
 
 
