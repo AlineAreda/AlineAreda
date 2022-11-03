@@ -42,7 +42,7 @@
    <br><br>
 
    <p align="center">
-   <img width="520em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula" alt="AlineAredao's   stats"/>
+   <img width="430em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula" alt="AlineAredao's   stats"/>
    <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"  alt="AlineAreda's most languages"/>
    </p>
 
