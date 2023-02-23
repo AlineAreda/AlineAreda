@@ -39,16 +39,6 @@
   
  
   
-   <br><br>
-
-   <p align="center">
-   <img width="430em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula" alt="AlineAredao's   stats"/>
-   <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"  alt="AlineAreda's most languages"/>
-   </p>
-
-  <br><br>
-  
-   
   ### Minhas Redes 🤝 
    
   <a href="https://www.linkedin.com/in/AlineAreda/AlineAreda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
