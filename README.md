@@ -2,11 +2,11 @@
 
 ### 👋 Oieee...
 
-- 🔭 Senior Software Quality Assurance Analyst na [Zup Innovation](https://github.com/ZupIT)
-- 🎓 Cursando pós graduação em  engenharia de software
+- 🔭 Head of Quality Assurance 
+- 🎓 Engenharia de software
 - 💻 Apaixonada por tecnologia. Com perfil Hands-on para aprender novas tecnologias. Mindset ágil.
 - 📚 Aprendizagem contínua e compartilhar esse conhecimento sempre!
-- ☕ Estudando e aprimorando conhecimentos.
+- ☕ Bora tomar um café!.
 
 
 
