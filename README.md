@@ -3,8 +3,8 @@
 ### 👋 Oieee...
 
 - 🔭 Head of Quality Assurance E2E Coders
-- - 👨🏽‍💻 Engenharia de software
-- 🎓 Professora Qualidade de Software na E2E Treinamentos
+-  👨🏽‍💻 Engenharia de software
+- 🎓 Professora na Formação Agile Test Engineer na [E2E Treinamentos](https://e2etreinamentos.com.br/formacao-agile-test-engineer/)
 - 💻 Apaixonada por tecnologia. Com perfil Hands-on para aprender novas tecnologias. Mindset ágil.
 - 📚 Aprendizagem contínua e compartilhar esse conhecimento sempre!
 - ☕ Bora tomar um café!.
