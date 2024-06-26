@@ -38,7 +38,10 @@
     <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>    
   </p> 
   
- 
+ <div>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"/>  
+</div>
   
   ### Minhas Redes 🤝 
    
