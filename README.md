@@ -1,18 +1,18 @@
 
 <h1 align="center">Welcome!</h1><img align="right" src="computer.png" width="350"/>
 
-### 👋 Oieee...
+### 👋 Hi there...
+- 🔭 Head of Quality Assurance at E2E Coders
+- 👨🏽‍💻 Software Engineering
+- 🎓 Instructor in the Agile Test Engineer Training at E2E Treinamentos
+- 🎓 Studying Machine Learning Engineering at FIAP
+- 💻 Passionate about technology. Hands-on approach to learning new technologies. Agile mindset.
+- 📚 Continuous learning and always sharing this knowledge!
+- ☕ Let's grab a coffee!
 
-- 🔭 Head of Quality Assurance E2E Coders
--  👨🏽‍💻 Engenharia de software
-- 🎓 Professora na Formação Agile Test Engineer na [E2E Treinamentos](https://e2etreinamentos.com.br/formacao-agile-test-engineer/)
-- 💻 Apaixonada por tecnologia. Com perfil Hands-on para aprender novas tecnologias. Mindset ágil.
-- 📚 Aprendizagem contínua e compartilhar esse conhecimento sempre!
-- ☕ Bora tomar um café!.
 
 
-
-#### 👨‍💻 Linguagens de Programação 
+#### 👨‍💻 Programming Languages 
 ---
 <p>
 	    <img src=https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white>
@@ -40,7 +40,7 @@
  ---
  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square) ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat-square) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat-square) ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat-square) ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square) ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat-square) ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat-square)
  
- ####  🔗 Ferramentas & Tecnologias
+ ####  🔗 Tools & Technologies
   ---
 ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=flat-square) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square) ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat-square) ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square) ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square) ![Splunk Badge](https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=flat-square) ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square) ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat-square) ![Azure Pipelines Badge](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff&style=flat-square)  ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square) ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat-square) ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square) ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square) ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square) ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat-square) ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat-square) ![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=fff&style=flat-square) ![Amazon CloudWatch Badge](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff&style=flat-square) ![Amazon Redshift Badge](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=fff&style=flat-square) 
  
