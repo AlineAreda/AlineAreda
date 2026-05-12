@@ -2,7 +2,6 @@
 <h1 align="center">Welcome!</h1><img align="right" src="computer.png" width="350"/>
 
 ### 👋 Hi there...
-- 🔭 Head of Quality Assurance at E2E Coders
 - 👨🏽‍💻 Software Engineering
 - 🎓 Instructor in the Agile Test Engineer Training at E2E Treinamentos
 - 🎓 Studying Machine Learning Engineering at FIAP
